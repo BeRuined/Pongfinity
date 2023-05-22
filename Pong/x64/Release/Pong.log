@@ -1,0 +1,32 @@
+﻿  Ball.cpp
+D:\Game\Pong\Pong\Ball.h(24,28): warning C4244: 'başlatılıyor': 'float' - 'const int' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Ball.h(25,24): warning C4244: 'başlatılıyor': 'float' - 'const int' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Ball.cpp(7,10): warning C4244: '=': 'const int' - 'float' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Ball.cpp(10,27): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Ball.cpp(11,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Ball.cpp(54,25): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Ball.cpp(82,55): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Ball.cpp(84,15): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Ball.cpp(108,39): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Ball.cpp(110,15): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Ball.cpp(134,21): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Ball.cpp(135,19): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Ball.cpp(138,33): warning C4244: '-=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Ball.cpp(176,27): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Ball.cpp(177,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  Game.cpp
+D:\Game\Pong\Pong\Ball.h(24,28): warning C4244: 'başlatılıyor': 'float' - 'const int' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Ball.h(25,24): warning C4244: 'başlatılıyor': 'float' - 'const int' dönüşümü; veri kaybı olabilir
+  Paddle.cpp
+D:\Game\Pong\Pong\Paddle.cpp(16,24): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Paddle.cpp(19,29): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Paddle.cpp(41,25): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Paddle.cpp(44,14): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  Source.cpp
+D:\Game\Pong\Pong\Ball.h(24,28): warning C4244: 'başlatılıyor': 'float' - 'const int' dönüşümü; veri kaybı olabilir
+D:\Game\Pong\Pong\Ball.h(25,24): warning C4244: 'başlatılıyor': 'float' - 'const int' dönüşümü; veri kaybı olabilir
+  Kod üretiliyor
+  Previous IPDB not found, fall back to full compilation.
+  All 102 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Kodun üretilmesi tamamlandı
+  Pong.vcxproj -> D:\Game\Pong\x64\Release\Pongfinity.exe
